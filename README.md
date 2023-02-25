@@ -1,3 +1,10 @@
+`25/02/2023`
+<details>
+  <summary>The green of Hoàn Kiếm lake is from the algae grow onder it</summary>
+
+Despite changes in weather and seasons, the green color of Hoan Kiem Lake remains fairly consistent throughout the year. This is because the lake is relatively shallow, with an average depth of only about 1.5-2 meters, which allows sunlight to penetrate all the way to the bottom. As a result, algae and other plants are able to grow and thrive throughout the year, giving the water its characteristic green color.
+</details>
+
 `24/02/2023`
 <details>
   <summary>I can use `details` tag to collapse content in markdown</summary>
