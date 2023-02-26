@@ -1,3 +1,8 @@
+`26/02/2023`
+- Statue of King Lý Công Uẩn (tile: Lý Thái Tổ) is inspired by Qin Shi Hoang's statue  
+- The coffee origin told to be from Ethiopia Africa and there are tales about it
+- Egg coffee at Giảng's Coffee is OK, the egg cream has a nice taste
+
 `25/02/2023`
 <details>
   <summary>The green of Hoàn Kiếm lake is from the algae grow onder it</summary>
