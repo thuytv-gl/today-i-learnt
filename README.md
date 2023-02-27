@@ -1,3 +1,9 @@
+`27/02/2023`
+- Islamic world in 16th centuris is mostly the Ottoman empire
+- Before Turle Tower, there was two other tower was built at the same spot
+- Lexer is a program to convert a sequence of characters to sequence of lexical tokens
+- [More about Lexer](https://en.wikipedia.org/wiki/Lexical_analysis)
+
 `26/02/2023`
 - Statue of King Lý Công Uẩn (tile: Lý Thái Tổ) is inspired by Qin Shi Hoang's statue  
 - The coffee origin told to be from Ethiopia Africa and there are tales about it
