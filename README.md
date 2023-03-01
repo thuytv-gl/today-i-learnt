@@ -1,3 +1,12 @@
+`28/02/2023`
+- Making a 5 minutes scripted video of myself is really hard
+  + Think about what you want to talk
+  + Make a clear outline and add details as much as you can if you have a bad memory
+  + Should pause between each section for later editing
+- Preparing script is hard, you need to research and care about timeline while recording
+- I can split video in to multiple sections, but edit it to be one piece with smooth experience is hard
+
+
 `27/02/2023`
 - Islamic world in 16th centuris is mostly the Ottoman empire
 - Before Turle Tower, there was two other tower was built at the same spot
