@@ -1,3 +1,12 @@
+`02/03/2023`
+- I can access `tty` mode in Manjaro Linux with combination of `ctrl+alt+f2`
+- `tty` provide commandline interface so I can fix my system incase the Desktop Environment not startup
+- I acknowledge about `startx`, will learn it later
+
+`01/03/2023`
+- In Cambridge Dictionary website, I can create a world list, or vocabolary list
+- Cambrid Dict also has grammar program so I can learn from it
+
 `28/02/2023`
 - Making a 5 minutes scripted video of myself is really hard
   + Think about what you want to talk
